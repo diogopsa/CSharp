@@ -1,0 +1,15 @@
+C:\Users\diogo.amorim\source\repos\CSharp\CursoYouTubeCFB\Aula02\Aula02CursoCFB\bin\Debug\net6.0\Aula02CursoCFB.exe
+C:\Users\diogo.amorim\source\repos\CSharp\CursoYouTubeCFB\Aula02\Aula02CursoCFB\bin\Debug\net6.0\Aula02CursoCFB.deps.json
+C:\Users\diogo.amorim\source\repos\CSharp\CursoYouTubeCFB\Aula02\Aula02CursoCFB\bin\Debug\net6.0\Aula02CursoCFB.runtimeconfig.json
+C:\Users\diogo.amorim\source\repos\CSharp\CursoYouTubeCFB\Aula02\Aula02CursoCFB\bin\Debug\net6.0\Aula02CursoCFB.dll
+C:\Users\diogo.amorim\source\repos\CSharp\CursoYouTubeCFB\Aula02\Aula02CursoCFB\bin\Debug\net6.0\Aula02CursoCFB.pdb
+C:\Users\diogo.amorim\source\repos\CSharp\CursoYouTubeCFB\Aula02\Aula02CursoCFB\obj\Debug\net6.0\Aula02CursoCFB.csproj.AssemblyReference.cache
+C:\Users\diogo.amorim\source\repos\CSharp\CursoYouTubeCFB\Aula02\Aula02CursoCFB\obj\Debug\net6.0\Aula02CursoCFB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogo.amorim\source\repos\CSharp\CursoYouTubeCFB\Aula02\Aula02CursoCFB\obj\Debug\net6.0\Aula02CursoCFB.AssemblyInfoInputs.cache
+C:\Users\diogo.amorim\source\repos\CSharp\CursoYouTubeCFB\Aula02\Aula02CursoCFB\obj\Debug\net6.0\Aula02CursoCFB.AssemblyInfo.cs
+C:\Users\diogo.amorim\source\repos\CSharp\CursoYouTubeCFB\Aula02\Aula02CursoCFB\obj\Debug\net6.0\Aula02CursoCFB.csproj.CoreCompileInputs.cache
+C:\Users\diogo.amorim\source\repos\CSharp\CursoYouTubeCFB\Aula02\Aula02CursoCFB\obj\Debug\net6.0\Aula02CursoCFB.dll
+C:\Users\diogo.amorim\source\repos\CSharp\CursoYouTubeCFB\Aula02\Aula02CursoCFB\obj\Debug\net6.0\refint\Aula02CursoCFB.dll
+C:\Users\diogo.amorim\source\repos\CSharp\CursoYouTubeCFB\Aula02\Aula02CursoCFB\obj\Debug\net6.0\Aula02CursoCFB.pdb
+C:\Users\diogo.amorim\source\repos\CSharp\CursoYouTubeCFB\Aula02\Aula02CursoCFB\obj\Debug\net6.0\Aula02CursoCFB.genruntimeconfig.cache
+C:\Users\diogo.amorim\source\repos\CSharp\CursoYouTubeCFB\Aula02\Aula02CursoCFB\obj\Debug\net6.0\ref\Aula02CursoCFB.dll
