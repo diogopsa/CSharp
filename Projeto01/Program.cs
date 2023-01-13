@@ -5,7 +5,7 @@
         public int Id { get; set; }
         public string Nome { get; set; }
     }
-    public class ClasseUm
+    public class ClasseDois
     {
         public int Id { get; set; }
         public string Nome { get; set; }
